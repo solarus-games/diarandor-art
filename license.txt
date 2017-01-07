@@ -1,0 +1,25 @@
+﻿We give in this file the license information of all data files of this
+free-art pack.
+
+Resources of this free-art pack are also used by
+the Solarus sample quest
+(https://github.com/solarus-games/solarus-sample-quest)
+the Solarus testing quest
+(https://github.com/solarus-games/solarus/tree/dev/tests/testing_quest)
+and by the Solarus Quest Editor's initial quest
+(https://github.com/solarus-games/solarus-quest-editor/tree/dev/assets/initial_quest).
+
+Some resources come from communities like OpenGameArt, and others are original
+creations made by us, the Solarus team.
+
+- All the files of the free-art pack we created are licensed under
+Creative Commons Attribution-ShareAlike 4.0 (CC BY-SA 4.0).
+http://creativecommons.org/licenses/by-sa/4.0/
+
+Main contributors:
+- Christopho
+- Diarandor <diarandor at gmail dot com>:
+  - Source URL for images: http://diarandor.deviantart.com/
+  - Source URL for sounds and music: https://soundcloud.com/diarandor/
+- Eduardo Dueñas <duenase@hotmail.com>
+- Bertram
